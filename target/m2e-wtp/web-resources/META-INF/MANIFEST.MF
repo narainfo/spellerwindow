@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpellerForWin
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: nara111
+Implementation-Vendor-Id: org.narainfo
+Build-Jdk: 1.8.0_212
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpellerForWind
+Created-By: Maven Integration for Eclipse
+
